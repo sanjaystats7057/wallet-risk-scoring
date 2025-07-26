@@ -111,7 +111,7 @@ wallet-risk-scoring/
 
 Sanjay Chaudhary  
 MSc Statistics – Delhi University  
-GitHub: [github.com/YourUsername]()  
+GitHub: [github.com/YourUsername](https://github.com/sanjaystats7057)  
 Email: chaudharysanjay2001@gmail.com
 
 ---
